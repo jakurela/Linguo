@@ -1,3 +1,6 @@
-LINGUO KARTICKY V6
+LINGUO V7
 Nahrajte index.html, manifest.webmanifest, icon.svg a sw.js do korene GitHub repository.
-Bez API klice funguje offline vestaveny slovnik. Vyhledani obrazku Wikimedia Commons potrebuje internet. Nezname preklady doplnte rucne.
+Automaticke doplneni bez API klice pouziva online MyMemory a Wiktionary. Vysledek pred ulozenim zkontrolujte.
+Kliparty se hledaji pouze jako SVG soubory na Wikimedia Commons; fotografie se nenabizeji.
+
+V8: Ulozena slovicka lze upravovat tlacitkem tuzky. Editace zachovava dosavadni score uceni.
