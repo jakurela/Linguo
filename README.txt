@@ -1,4 +1,4 @@
-LINGUO V9
-Automaticke doplneni: zvoleni smeru + MyMemory + Wiktionary + fallback pro chi/che a dalsi kratka slova.
-Slovnik: Lingea italsko-cesky.
-Kliparty: pouze SVG z Wikimedia Commons.
+LINGUO V11
+Nahrajte index.html, manifest.webmanifest, icon.svg a sw.js do korene GitHub repository.
+Nova zalozka Slovesa: osoba -> tvar, tvar -> osoba, nahodny mix, trening vsech nebo vybraneho slovesa, psana a hlasova odpoved, postup 0/6 a opakovani chyb.
+Hlasove zadani zavisi na podpore SpeechRecognition v prohlizeci; nejlepe funguje Chrome/Edge na Androidu.
