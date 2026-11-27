@@ -8,3 +8,5 @@ V12: obnoveno automaticke doplneni cesky/italsky bez API klice, specialni podpor
 V13: obnoveno vyhledavani SVG klipartu z Wikimedia Commons, vlastni klipart a ukladani/editace obrazku. V casovani i treningu sloves se zobrazuji italska zajmena io, tu, Lui/Lei, noi, voi, loro. Vsechny funkce V12 zustaly zachovany.
 
 V14 je cista nadstavba V13. Pridana zalozka Hry: pexeso CZ/IT, 60s sprint, psany preklad a adaptivni lov na slaba slovicka. Pridany XP, uroven, serie a denni cil. Vsechny funkce V13 zustaly zachovany.
+
+V14.1 oprava: ve Slovnim sprintu se otazka meni pouze po oznaceni odpovedi. Cas 60 s bezi samostatne bez prepinani slov. Ostatni funkce V14 beze zmeny.
